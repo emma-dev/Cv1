@@ -1,1 +1,7 @@
 squashops.com
+
+$ dig squashops.com +noall +answer
+> squashops.com     3600    IN A     185.199.108.153
+> squashops.com     3600    IN A     185.199.109.153
+> squashops.com     3600    IN A     185.199.110.153
+> squashops.com    3600    IN A     185.199.111.153
